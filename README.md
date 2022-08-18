@@ -1,1 +1,1 @@
-Shell permition
+loops and condition devops
